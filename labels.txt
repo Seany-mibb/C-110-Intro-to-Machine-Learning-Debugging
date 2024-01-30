@@ -1,2 +1,3 @@
-0 Without Glasses
-1 With Glasses
+0 Rock
+1 Paper
+2 Scissors
